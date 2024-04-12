@@ -461,25 +461,11 @@ body {
 }
 
 #logo {
-    position: absolute;
-    left: 20px;
-    bottom: 10px;
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
-
-#logo .main {
-    font-size: 60px;
-    order: 2;
-}
-
-#logo .english {
-    font-size: 22px;
-    margin-bottom: 1px;
-    opacity: .5;
-    order: 1;
+    background-image: url('./assets/img/1.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 1024px;
+    height: 851px;
 }
 
 .content-box {

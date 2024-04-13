@@ -445,9 +445,9 @@ body {
 #top-bar {
     height: 270px;
     max-height: 32vh;
-    background-image: url(top-bar-bg.png);
+    background-image: url(top-bar-bg.jpg);
     background-repeat: no-repeat;
-    background-position: 100%;
+    background-position: absolute;
     background-size: auto 100%
 }
 
@@ -458,14 +458,6 @@ body {
     height: 100%;
     padding: 0 20px;
     position: relative
-}
-
-#logo {
-    height: 270px;
-    background-image: url('./assets/img/1.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
 }
 
 .content-box {

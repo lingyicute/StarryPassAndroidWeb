@@ -445,9 +445,9 @@ body {
 #top-bar {
     height: 270px;
     max-height: 32vh;
-    background-image: url(top-bar-bg.jpg);
+    background-image: url(bg.png);
     background-repeat: no-repeat;
-    background-position: absolute;
+    background-position: 49%;
     background-size: auto 100%
 }
 

@@ -465,8 +465,7 @@ body {
     background-image: url('./assets/img/1.png');
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: 100%;
-    background-size: auto 100%
+    background-position: center center;
 }
 
 .content-box {
